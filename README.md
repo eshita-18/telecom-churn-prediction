@@ -34,6 +34,10 @@ Telecom companies lose millions in revenue due to customer churn. This project h
 - Fields include: demographics, usage behavior, billing, services, and churn status
 
 ---
+## 📸 Dashboard Preview
+
+![Churn Dashboard](./churn_prediction.PNG)
+![Churn Dashboard](./summary.jpg)
 
 ## 💻 Tech Stack
 
@@ -53,9 +57,9 @@ Telecom companies lose millions in revenue due to customer churn. This project h
 - 🔹 Feature importance from ML model  
 - 🔹 Slicers for filtering by Internet Type, Tenure, Age, etc.  
 
-> 📁 Power BI Report: [`Churn_Report.pbix`](./churn_analysis.pbix)
+> 📁 Power BI Report: [`Churn_analysis.pbix`](./churn_analysis.pbix)
 
-> 📁 Python Notebook: [`churn_model_random_forest.ipynb`](./prediction/predictions.ipynb)
+> 📁 Python Notebook: [`predictions.ipynb`](./prediction/predictions.ipynb)
 
 ---
 
