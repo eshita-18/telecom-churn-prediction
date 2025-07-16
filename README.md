@@ -36,8 +36,8 @@ Telecom companies lose millions in revenue due to customer churn. This project h
 ---
 ## 📸 Dashboard Preview
 
-![Churn Dashboard](./churn_prediction.PNG)
-![Churn Dashboard](./summary.jpg)
+![Churn Prediction dashboard](./churn_prediction.PNG)
+![Churn Dashboard](./summary.png)
 
 ## 💻 Tech Stack
 
